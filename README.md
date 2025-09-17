@@ -3,7 +3,7 @@
 
 <p align="center" >
   <samp>
-No momento eu estou Cursando 7° Semestre do Curso de Ciência da Compultação, E estou em Busca do Meu primeiro Emprego na Área de TI.
+No momento eu estou Cursando 8° Semestre do Curso de Ciência da Compultação, E estou em Busca do Meu primeiro Emprego na Área de TI.
   </samp>
 <br/><br/>
 
@@ -19,3 +19,4 @@ No momento eu estou Cursando 7° Semestre do Curso de Ciência da Compultação,
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JhonatanLopes&theme=tokyonight&show_icons=true" />
 <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLP&theme=tokyonight&show_icons=true" />
 </p>
+
