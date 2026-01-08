@@ -3,7 +3,12 @@
 
 <p align="center" >
   <samp>
-No momento eu estou Cursando 8° Semestre do Curso de Ciência da Compultação, E estou em Busca do Meu primeiro Emprego na Área de TI.
+👋 Olá! Meu nome é **Jhonatan Lopes**
+
+🎓 Graduado em **Ciência da Computação** e **ADS**  
+💻 Desenvolvedor em formação, buscando a primeira oportunidade na área de TI  
+🚀 Focado em evolução constante e projetos práticos
+
   </samp>
 <br/><br/>
 
@@ -19,4 +24,5 @@ No momento eu estou Cursando 8° Semestre do Curso de Ciência da Compultação,
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JhonatanLopes&theme=tokyonight&show_icons=true" />
 <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLP&theme=tokyonight&show_icons=true" />
 </p>
+
 
