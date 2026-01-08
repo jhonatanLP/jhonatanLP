@@ -3,7 +3,6 @@
 
 <p align="center" >
   <samp>
-👋 Olá! Meu nome é **Jhonatan Lopes**
 
 🎓 Graduado em **Ciência da Computação** e **ADS**  
 💻 Desenvolvedor em formação, buscando a primeira oportunidade na área de TI  
@@ -24,5 +23,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JhonatanLopes&theme=tokyonight&show_icons=true" />
 <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanLP&theme=tokyonight&show_icons=true" />
 </p>
+
 
 
